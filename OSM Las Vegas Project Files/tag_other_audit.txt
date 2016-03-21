@@ -1,0 +1,29 @@
+
+Frequency x value of k = destination:ref:to
+  6 x CR 215 East
+
+Frequency x value of k = parking:condition:both
+  12 x free
+
+Frequency x value of k = parking:lane:both
+  6 x perpendicular
+  6 x diagonal
+
+Frequency x value of k = generator:output:electricity
+  8 x 68.5 MW
+  16 x 2.4 MW
+  6 x 14 MW
+  104 x 130 MW
+  8 x 61.5 MW
+  6 x 150 MW
+  32 x 201500000
+  6 x 64 MW
+  16 x 330000000
+  16 x 127 MW
+
+Frequency x value of k = mtb:scale:uphill
+  6 x 3
+  12 x 2
+
+Frequency x value of k = source:hgv:national_network
+  750 x Title 23: Highways Part 658 http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&rgn=div5&view=text&node=23:1.0.1.7.33&idno=23 and document from NDOT listing the FAP routes

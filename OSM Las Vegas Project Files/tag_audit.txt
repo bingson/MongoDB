@@ -1,0 +1,135 @@
+
+Frequency x value of k = addr:housenumber
+  6 x 4020
+  6 x 9777
+  8 x 4780
+  6 x 3555
+  6 x 1940
+  8 x 10890
+  6 x 5984
+  6 x 819
+  8 x 3855
+  8 x 3999
+  6 x 2910
+  8 x 2851
+  14 x 2850
+  6 x 713
+  20 x 3330
+  6 x 7120
+  6 x 6845
+  8 x 4730
+  8 x 5185
+  8 x 2310
+ *Showing first 20 of larger set: 20 max_set_count < 447 set_size 
+
+Frequency x value of k = addr:door
+  8 x 209
+
+Frequency x value of k = addr:interpolation
+  6 x even
+
+Frequency x value of k = addr:city
+  40 x North Las Vegas
+  16 x Boulder City NV
+  6 x Nellis AFB
+  16 x Las vegas
+  14 x las vegas
+  6 x Paradise
+  6 x Whitney
+  14 x Las Vegas, NV
+  16 x Boulder City, NV
+  1916 x Las Vegas
+  6 x Moapa
+  12 x Overton
+  16 x Las Vagas
+  32 x Boulder City
+  12 x Spring Valley
+  562 x Henderson
+
+Frequency x value of k = addr:postcode
+  14 x NV 89119
+  32 x 89108
+  54 x 89052
+  unwritable value
+  6 x NV 89031
+  6 x 89154
+  6 x NV 89014
+  8 x 89191
+  8 x 89109-1907
+  6 x NV 89030
+  8 x NV 89117
+  6 x 89032
+  8 x 89110
+  92 x 89118
+  16 x NV 89052
+  58 x 89113
+  28 x 89115
+  6 x NV 89135
+  66 x 89117
+  226 x 89015
+ *Showing first 20 of larger set: 20 max_set_count < 76 set_size 
+
+Frequency x value of k = bitcoin:address
+  8 x 1taxinvBLwDAb1tjyTYzhcyb1fNKfivAB
+
+Frequency x value of k = addr:housename
+  8 x Suite 210-A
+  6 x Regional Transportation Commission of Southern Nevada
+  8 x Northwest Career & Technical Academy
+  6 x Bank of America Plaza
+  6 x County of Clark (Administrative)
+  8 x Horizon Web Marketing
+  8 x MMS Scooters
+  6 x Frank H. Rogers Science & Technology Building
+  6 x Mob Museum
+  8 x Desert Tortoise Conservation Center
+  6 x City Centre Place
+  8 x US Bank Building
+  6 x Dag Spring 2
+  6 x 302 E Carson
+  8 x Infinite Wholesale
+  8 x Hughes Center
+  8 x Ste 404
+  6 x The Coffee Cup
+  6 x Whole Foods Market
+  8 x 7060 W. Warm Springs Rd
+ *Showing first 20 of larger set: 20 max_set_count < 26 set_size 
+
+Frequency x value of k = addr:state
+  18 x CA
+  32 x AZ
+  8 x nv
+  2310 x NV
+  44 x Nevada
+
+Frequency x value of k = addr:county
+  120 x Clark
+
+Frequency x value of k = addr:country
+  408 x US
+
+Frequency x value of k = addr:suite
+  8 x 110
+
+Frequency x value of k = addr:street
+  16 x S Highland Dr
+  16 x S. Eastern Ave
+  0 x W. Arby Ave.
+  44 x Marks Street
+  8 x Polaris Avenue
+  6 x Echelon Point Drive
+  6 x E. Flamingo Blvd.
+  6 x East Windmill Parkway
+  8 x North Boulder Highway
+  8 x West Horizon Ridge Parkway, STE 150
+  24 x Industrial Road
+  6 x East Paradise Hills Drive
+  8 x East Warm Springs Road
+  8 x Mall Ring Circle
+  6 x S 6th Street
+  8 x Baja Lane
+  6 x East Tropicana Ave
+  6 x Spencer Street
+  76 x East Flamingo Road
+  6 x South 7th Street
+ *Showing first 20 of larger set: 20 max_set_count < 221 set_size 
