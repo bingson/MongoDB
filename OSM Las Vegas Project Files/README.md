@@ -13,11 +13,11 @@ For this project I chose the Las Vegas because it’s a medium sized city famous
 * creates text files summarising audit dictionaries (e.g. tag_audit.txt)
 
 ##### 2_clean_and_convert_data.py 
-* convert from OSM XML data to JSON format 
+* convert from OSM XML data to JSON format and upload to a MongoDB database
 * contains cleaning routines to fix problems identified in the audit step. See P3_Vegas_OSM_DataWrangling_Project.pdf for a description of the cleaning functions.
 
 ##### 3_mongo_queries.py
-* assortment of mongoDB querries exploring the cleaned json file.
+* assorted mongoDB querries summarising the cleaned json file.
 
 
 
