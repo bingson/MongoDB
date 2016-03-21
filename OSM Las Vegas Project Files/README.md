@@ -4,9 +4,9 @@
 
 For this project I chose the Las Vegas because it’s a medium sized city famous for its many casinos, providing readily available reference data I can use to check OSM accuracy and completeness. 
 
-0_create_sample_osm.py
---------------------- 
-creates smaller OSM file for testing/debugging purposes.
+##### 0_create_sample_osm.py
+
+* creates smaller OSM file for testing/debugging purposes.
 
 1_audit_data.py
 ---------------
