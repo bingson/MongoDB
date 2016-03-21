@@ -1,5 +1,6 @@
-# MongoDB
+# MongoDB Data Wrangling Project
 
-### Las Vegas Data Wrangling Project
+Choose any area of the world in https://www.openstreetmap.org and use data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for a part of the world that you care about.
 
-Assessed a portion of the OpenStreetMap data for validity, accuracy, completeness, consistency, and uniformity and then cleaned up problems found in the data.
+Project Grading Rubric
+goo.gl/ITAEdv
