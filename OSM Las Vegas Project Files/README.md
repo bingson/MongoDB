@@ -16,8 +16,7 @@ For this project I chose the Las Vegas because it’s a medium sized city famous
 * convert from OSM XML data to JSON format 
 * contains cleaning routines to fix problems identified in the audit step. See P3_Vegas_OSM_DataWrangling_Project.pdf for a description of the cleaning functions.
 
-3_mongo_queries.py
-------------------
+##### 3_mongo_queries.py
 * assortment of mongoDB querries exploring the cleaned json file.
 
 
