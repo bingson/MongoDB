@@ -10,7 +10,7 @@ For this project I chose the Las Vegas because it’s a medium sized city famous
 
 ##### 1_audit_data.py
 * assorted auditing functions to find errors in crowd sourced OSM data
-* creates text files that printout various auditing dictionaries (e.g. tag_audit.txt)
+* creates text files summarising audit dictionaries (e.g. tag_audit.txt)
 
 ##### 2_clean_and_convert_data.py 
 * convert from OSM XML data to JSON format 
