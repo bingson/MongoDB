@@ -8,17 +8,17 @@ For this project I chose the Las Vegas because it’s a medium sized city famous
 
 * creates smaller OSM file for testing/debugging purposes.
 
-1_audit_data.py
----------------
-assorted auditing functions to find errors in crowd sourced OSM data; creates text files (e.g. tag_audit.txt) that summarize various characteristics of the raw OpenStreetMap XML file. 
+##### 1_audit_data.py
+* assorted auditing functions to find errors in crowd sourced OSM data
+* creates text files that printout various auditing dictionaries (e.g. tag_audit.txt)
 
-2_clean_and_convert_data.py 
---------------------------- 
-convert from OSM XML data to JSON format while fixing problems identified in the audit step. See P3_Vegas_OSM_DataWrangling_Project.pdf for a description of the cleaning functions.
+##### 2_clean_and_convert_data.py 
+* convert from OSM XML data to JSON format 
+* contains cleaning routines to fix problems identified in the audit step. See P3_Vegas_OSM_DataWrangling_Project.pdf for a description of the cleaning functions.
 
 3_mongo_queries.py
 ------------------
-assortment of mongoDB querries exploring the cleaned json file.
+* assortment of mongoDB querries exploring the cleaned json file.
 
 
 
