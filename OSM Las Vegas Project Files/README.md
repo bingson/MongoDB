@@ -7,7 +7,7 @@ For this project I chose Las Vegas because it’s a medium sized city famous for
 ##### P3_Vegas_OSM_DataWrangling_Project.pdf
 * description of cleaning methods
 * overview of data
-* ideas for using geolocational data
+* ideas for using geospatial data
 
 ##### 0_create_sample_osm.py
 
