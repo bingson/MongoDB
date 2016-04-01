@@ -16,7 +16,7 @@ For this project I chose Las Vegas because it’s a medium sized city famous for
 * creates smaller OSM file for testing/debugging purposes.
 
 ##### 1_audit_data.py
-* assorted auditing functions to find errors in crowd sourced OSM data
+* assorted auditing functions to find errors in crowdsourced OSM data
 * creates text files summarising audit data (e.g. tag_audit.txt)
 
 ##### 2_clean_and_convert_data.py 
